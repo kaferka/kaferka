@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaferka
-- 👀 I’m interested in homelabbing, RHEL and Ruby
-- 🌱 I’m currently learning Ruby!
+- 👀 I’m interested in homelabbing, RHEL and Ansible
+- 🌱 I’m currently learning Ansible!
 - 💞️ I’m looking to collaborate on ... nothing so far.
 - 📫 How to reach me ... no contact info so far
 
